@@ -1,4 +1,4 @@
-const accordionData = [
+const accordionData01 = [
   {
     id: 1,
     title: "Section 1 Header",
@@ -16,4 +16,4 @@ const accordionData = [
   }
 ];
 
-export default accordionData;
+export default accordionData01;
